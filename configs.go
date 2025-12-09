@@ -13,9 +13,9 @@ import (
 const (
 	// APIEndpoint is the endpoint for all API methods,
 	// with formatting for Sprintf.
-	APIEndpoint = "https://xminiapp.io/bot%s/%s"
+	APIEndpoint = "https://openapi.m.openweb3.io/bot%s/%s"
 	// FileEndpoint is the endpoint for downloading a file from de-im.
-	FileEndpoint = "https://xminiapp.io/file/bot%s/%s"
+	FileEndpoint = "https://openapi.m.openweb3.io/file/bot%s/%s"
 )
 
 // Constant values for ChatActions
